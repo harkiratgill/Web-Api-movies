@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC Video", "MVC Video\MVC Video.csproj", "{4DF63BD3-B79E-452A-8895-4C369A40DC8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DF63BD3-B79E-452A-8895-4C369A40DC8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DF63BD3-B79E-452A-8895-4C369A40DC8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DF63BD3-B79E-452A-8895-4C369A40DC8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DF63BD3-B79E-452A-8895-4C369A40DC8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A61A4E29-793B-4A31-BF3B-2BE8A39FB27D}
+	EndGlobalSection
+EndGlobal
